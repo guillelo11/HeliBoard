@@ -1,0 +1,17 @@
+[popup_keys]
+a á ª
+c ç
+e é
+h ḥ
+i í
+l ḷ
+o ó º
+u ú ü
+n ñ
+punctuation !autoColumnOrder!9 \, ? ! # ) ( / ; ¡ ' @ : - " + \% & ¿
+
+[extra_keys]
+2: ñ
+
+[tlds]
+es com
